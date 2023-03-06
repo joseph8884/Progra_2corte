@@ -4,4 +4,9 @@ public class Prueba {
         System.out.println("Hola mundo");
     }
 
+    public static void main(String[] args) {
+        Prueba ho=new Prueba();
+        ho.Saludar();
+    }
+
 }
