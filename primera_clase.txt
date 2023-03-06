@@ -1,0 +1,4 @@
+git init::::::: Crea un repositorio
+git status:::::Ver archivos::: Rojo::No esta "TRakeado" no esta listo para subir
+				Verde:: Esta trakeado, listo para subir
+git add:::::::: Pushea archivo. Trakea el archivo. Prepara el archivo para un "commit". pueden ir muchos archivos
